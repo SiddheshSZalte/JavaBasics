@@ -3,7 +3,7 @@ import java.util.*;
 public class DecToBin {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a binary number:");
+		System.out.println("Enter a decimal number:");
 		int Dec_Num = sc.nextInt();
 		int ans = 0;
 		int parity;
